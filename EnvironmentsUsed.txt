@@ -1,0 +1,2 @@
+Python version  3.10.4
+Jupyter Notebook was run using Command Prompt
